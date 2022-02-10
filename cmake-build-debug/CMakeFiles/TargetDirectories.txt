@@ -1,0 +1,3 @@
+/Users/oliver/CLionProjects/miniGames/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/oliver/CLionProjects/miniGames/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oliver/CLionProjects/miniGames/cmake-build-debug/CMakeFiles/miniGames.dir
